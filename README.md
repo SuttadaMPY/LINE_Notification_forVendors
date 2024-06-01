@@ -1,5 +1,5 @@
 # LINE_Notification_forVendors
-This will retrieve data from sheet URL and notify vendors after payment transaction.
+This will retrieve data from sheet URL and notify vendors after payment transaction has been verified.
 
 This is my project, which collaboration with my friends, in Service Learning in Mathematics course.
 
